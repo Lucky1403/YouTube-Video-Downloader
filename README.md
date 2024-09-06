@@ -2,9 +2,13 @@
 
 
 **🌟 Features**
+
 • Download any YouTube video in the best possible quality.
+
 • Playlist support: Download entire playlists with just one command.
+
 • Highest quality download by merging separate video and audio streams using ffmpeg.
+
 • Works on Windows, MacOS, and Linux.
 
 
@@ -20,10 +24,15 @@ In your terminal, run:   pip install yt-dlp
 3. Install ffmpeg
 Here’s the magic sauce that helps convert video and audio formats and merge media files to give you the highest quality downloads.
 • Link for downloading the ffmpeg is https://ffmpeg.org/download.html
+
 • Extract the downloaded ZIP file and move it to a directory (e.g., C:\ffmpeg).
+
 • Add C:\ffmpeg\bin to your system's PATH:
+
 • Open System Properties > Environment Variables.
+
 • In the System Variables section, locate the PATH variable, click Edit, and add the path to ffmpeg's bin folder (C:\ffmpeg\bin).
+
 For Installation you can also refer to Youtube Video : https://youtu.be/jZLqNocSQDM?si=E6YooBLeUh0WAD6I
 
 
