@@ -1,6 +1,8 @@
 **🎥 YouTube Video Downloader (Python Project)**
 
 
+
+
 **🌟 Features**
 
 • Download any YouTube video in the best possible quality.
@@ -10,6 +12,8 @@
 • Highest quality download by merging separate video and audio streams using ffmpeg.
 
 • Works on Windows, MacOS, and Linux.
+
+
 
 
 
@@ -37,6 +41,8 @@ For Installation you can also refer to Youtube Video : https://youtu.be/jZLqNocS
 
 
 
+
+
 🚀 **How to Use the Video Downloader**
 Now that everything is set up, let’s start downloading!
 
@@ -45,6 +51,8 @@ To download a video:  simply run the Python Command and Enter the link of the vi
 
 Download a Playlist
 Got a whole playlist of songs or videos to download? It’s as simple as: Just paste the link of whole Playlist after running the Python Command.
+
+
 
 
 
@@ -58,6 +66,8 @@ Your download speed may vary based on the size of the video or your internet con
 
 Thank you for using this Video Downloader! 🎉
 Enjoy downloading your favorite videos, songs, and playlists from YouTube with ease. Happy downloading! 😄
+
+
 
 
 
