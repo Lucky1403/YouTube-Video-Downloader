@@ -1,6 +1,7 @@
-🎥 YouTube Video Downloader (Python Project)
+**🎥 YouTube Video Downloader (Python Project)**
 
-🌟 Features
+
+**🌟 Features**
 • Download any YouTube video in the best possible quality.
 • Playlist support: Download entire playlists with just one command.
 • Highest quality download by merging separate video and audio streams using ffmpeg.
@@ -8,7 +9,7 @@
 
 
 
-⚙️ Installation
+⚙️ **Installation**
 1. Clone the Repository
 First things first, let's get this project onto your machine.
 
@@ -27,20 +28,19 @@ For Installation you can also refer to Youtube Video : https://youtu.be/jZLqNocS
 
 
 
-🚀 How to Use the Video Downloader
+🚀 **How to Use the Video Downloader**
 Now that everything is set up, let’s start downloading!
 
 Download a Single Video
-To download a video, simply run the Python Command and Enter the link of the video.
+To download a video:  simply run the Python Command and Enter the link of the video.
 
 Download a Playlist
 Got a whole playlist of songs or videos to download? It’s as simple as: Just paste the link of whole Playlist after running the Python Command.
 
 
 
-🛠 Troubleshooting
-ffmpeg not found error:
-Make sure ffmpeg is installed and added to your PATH. To verify, open your terminal and type ffmpeg. If it's installed correctly, you'll see information about ffmpeg. If not, follow the installation instructions above.
+**🛠 Troubleshooting**
+ffmpeg not found error: Make sure ffmpeg is installed and added to your PATH. To verify, open your terminal and type ffmpeg. If it's installed correctly, you'll see information about ffmpeg. If not, follow the installation instructions above.
 
 Download speed issues:
 Your download speed may vary based on the size of the video or your internet connection. If you're downloading large files, be patient—it’ll get there! 🚀
