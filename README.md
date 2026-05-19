@@ -72,9 +72,3 @@ Enjoy downloading your favorite videos, songs, and playlists from YouTube with e
 
 
 Note:- The Content which is downloaded by using this method is in the possible Highest quality. So Size of the file will be large.
-
-
-
-
-
-
